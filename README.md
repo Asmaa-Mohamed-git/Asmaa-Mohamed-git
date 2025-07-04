@@ -6,6 +6,9 @@
 
 <h2 align="left">🛠️ Technologies and Tools I Use:</h2>
 <p align="left">
+  <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/>
+  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
